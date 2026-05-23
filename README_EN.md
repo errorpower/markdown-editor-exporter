@@ -76,7 +76,8 @@ npm install
 npm run dev:all
 ```
 
-Frontend at http://localhost:7812, Backend API at http://localhost:7813.
+Frontend at http://localhost:7812
+Backend API at http://localhost:7813
 
 ### Frontend Only
 
