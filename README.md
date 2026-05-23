@@ -76,7 +76,8 @@ npm install
 npm run dev:all
 ```
 
-前端访问 http://localhost:7812，后端 API 访问 http://localhost:7813。
+前端访问 http://localhost:7812
+后端 API 访问 http://localhost:7813
 
 ### 仅启动前端
 
